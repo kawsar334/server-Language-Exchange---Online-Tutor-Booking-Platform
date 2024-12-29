@@ -6,7 +6,7 @@ This is the **backend** repository for the Online Tutor Booking Platform. It han
 
 ## Links
 **Backend Links**
-- [backend github link](https://github.com/programming-hero-web-course2/b10a11-server-side-kawsar334)
+- [backend github link](https://github.com/kawsar334/server-Language-Exchange---Online-Tutor-Booking-Platform)
 - [api Link on vercel](https://server-wheat-xi.vercel.app/) +/endpoind 
 
 
@@ -14,7 +14,7 @@ This is the **backend** repository for the Online Tutor Booking Platform. It han
 
 - [Live Link1](https://gorgeous-shortbread-b2c9fe.netlify.app/)
 
-- [frontend github link](https://github.com/programming-hero-web-course2/b10a11-client-side-kawsar334)
+- [frontend github link](https://github.com/kawsar334/client_Language-Exchange_Online-Tutor-Booking)
 
 
 ## **Features**
